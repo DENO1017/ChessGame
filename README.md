@@ -1,2 +1,2 @@
 # ChessGame
-自走棋项目UI部分代码，Unity
+Unity自走棋项目，UI部分，代码部分在/UIFrameWork
