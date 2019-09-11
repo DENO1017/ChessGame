@@ -1,0 +1,7 @@
+{
+	"panelInfoList":
+	[
+		{"panelType":"Game","path":"PanelPrefabs/GamePanel"},
+		{"panelType":"Shop","path":"PanelPrefabs/ShopPanel"}
+	]
+}
